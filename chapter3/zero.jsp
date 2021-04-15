@@ -1,13 +1,11 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
-
-<!DOCTYPE html>
+< !DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Welcome</title>
+<title>Insert title here</title>
 </head>
 <body>
-	<h1>Hello JSP!</h1>
-	Hello! Java Server Pages.
+	<h1 style = "color: red;">주의! 0으로 나누려고 하고 있습니다
 </body>
 </html>
