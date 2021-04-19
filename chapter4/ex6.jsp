@@ -12,4 +12,4 @@
 		<jsp:param value="<%=java.util.Calendar.getInstance().getTimeInMillis() %>" name ="date"/>
 	</jsp:include>
 </body>
-</html>
+</html> 
