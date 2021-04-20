@@ -33,7 +33,7 @@
 	}
 %>
 <%
- 	<%= number %>;	
+ 	<%=number %>;	
 %>
 </body>
 </html>

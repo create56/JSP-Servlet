@@ -3,14 +3,11 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Scripting Tag</title>
+<title>Insert title here</title>
 </head>
 <body>
-	<%!int sum (int a, int b) {
-		return a + b;
-	}	%>
 	<%
-	out.println("2+3 =" +sum (2+3));
-	%>	
+		response.sendRedirect("http://www.google.com");
+	%>
 </body>
 </html>

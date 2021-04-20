@@ -3,14 +3,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Scripting Tag</title>
+<title>Insert title here</title>
 </head>
 <body>
-	<%!int sum (int a, int b) {
-		return a + b;
-	}	%>
-	<%
-	out.println("2+3 =" +sum (2+3));
-	%>	
+	<strong>로그인 성공!</strong>
 </body>
 </html>
