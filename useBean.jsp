@@ -16,9 +16,9 @@
 	<h4>구구단 출력하기</h4>
 	<%
 		for(int i : result) {
-			<p><%=i%></p>
 		}
 		
 	%>
+		<p><%=i%></p>
 </body>
 </html>
