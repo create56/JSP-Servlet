@@ -11,8 +11,8 @@
 <body>
 	<%
 	 	for(int i=1; i<=9; i++) {
-	 	<p><%=gugudan%> * <%=i%> = <%=gugudan * i%></p>
 	 	}
 	%>
+	 	<p><%=gugudan%> * <%=i%> = <%=gugudan * i%></p>
 </body>
 </html>
